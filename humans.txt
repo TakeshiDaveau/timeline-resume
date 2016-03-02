@@ -1,0 +1,14 @@
+/* TEAM */
+	Web designer:Takeshi Daveau
+	Contact: takeshi [dot] daveau [at] gmail.com
+	From: Rennes, France
+	
+/* THANKS */
+	EN Translation reviewer: François Denis
+	From: Angers, France
+	
+/* SITE */
+	Last update:2012/01/30
+	Language:English / French
+	Doctype:HTML5
+	IDE: Brackets, Notepad++, FileZilla, Photoshop

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<translation id="menu_home">
+    <english>Home</english>
+    <french>Accueil</french>
+</translation>
+<translation id="menu_career">
+    <english>Career</english>
+    <french>Parcours</french>
+</translation>
+<translation id="menu_contact">
+    <english>Contact</english>
+    <french>Contact</french>
+</translation>
+<translation id="skills_title">
+    <english>Hello, I'm computer science engineer</english>
+	<french>Bonjour, je suis ingénieur informatique</french>
+</translation>
+<translation id="skills_first_p">
+    <english><![CDATA[I'm a graduated from <a href="http://web.polytech.univ-nantes.fr/1563/0/fiche___formation/&RH=1336143536804&ONGLET=1" target="_blank">Polytech'Nantes</a> since 2011. 
+	I was working in Belgium last year, in a <strong>banking software
+	company</strong> and I'm looking for a <strong>job as web-based application developper</strong>. I'm more interested by a position in the western part
+	of France, or in the Paris region, but I should also be interested by a new experience abroad.]]>
+	</english>
+    <french><![CDATA[Je suis diplomé, en 2011, de <a href="http://web.polytech.univ-nantes.fr/1563/0/fiche___formation/&RH=1336143536804&ONGLET=1" target="_blank">Polytech'Nantes</a>. 
+    J' ai vécu une expérience enrichissante en Belgique dans le domaine <strong>bancaire</strong> et <strong>cherche un emploi</strong> en tant que <strong>développeur d'application web</strong>.
+    Je suis mobile sur toute la France mais donne la priorité au grand ouest et à la région parisienne. Je peux également être intéressé par une nouvelle aventure à l'étranger.
+	]]></french>
+</translation>
+<translation id="skills_sec_p">
+    <english><![CDATA[I'm willing to develop server side application in <strong>Java JEE, PHP</strong>, and <strong>C/C++</strong>,
+	and I've got good knowledge in the client side language as <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>Javascript</strong>. I'm also able
+	to design and implement database.
+	]]></english>
+	<french><![CDATA[Je suis capable de développer des applications en <strong>Java JEE, PHP</strong>, et <strong>C/C++</strong>. Je maîtrise également le 
+    <strong>HTML5</strong>, le <strong>CSS3</strong> ainsi que le <strong>Javascript</strong>. Je suis également capable de concevoir,
+    puis de mettre en œuvre des bases de données.
+	]]></french>
+</translation>
+<translation id="skills_third_p">
+    <english><![CDATA[I like to chill with my friends, to cook, and to listen to music. I'm interested in everything about <strong>new technologies</strong>.
+	If you want to hire a <strong>curious, creative, and rigorous</strong> young man, don't hesitate to stay in touch with me.]]></english>
+	<french><![CDATA[J'aime passer du temps avec mes amis, faire la cuisine, et écouter de la musique. Je m’intéresse à tout ce qui touche aux <strong>nouvelles technologies</strong>.
+	Si vous recherchez quelqu'un de <strong>curieux, créatif, et rigoureux</strong> n'hésitez pas à me contacter.]]></french>
+</translation>
+<translation id="skill_item_1">
+    <english>Java JEE</english>
+    <french>Java JEE</french>
+</translation>
+<translation id="skill_item_2">
+    <english>C/C++</english>
+    <french>C/C++</french>
+</translation>
+<translation id="skill_item_3">
+    <english>Php</english>
+    <french>Php</french>
+</translation>
+<translation id="skill_item_4">
+    <english>Cobol</english>
+    <french>Cobol</french>
+</translation>
+<translation id="skill_item_5">
+    <english>Database</english>
+    <french>Base de données</french>
+</translation>
+<translation id="skill_item_6">
+    <english>HTML / CSS</english>
+    <french>HTML / CSS</french>
+</translation>
+<translation id="skill_item_7">
+    <english>Javascript</english>
+    <french>Javascript</french>
+</translation>
+<translation id="skill_item_8">
+    <english>English</english>
+    <french>Anglais</french>
+</translation>
+<translation id="skill_item_9">
+    <english>Banking skills</english>
+    <french>Secteur bancaire</french>
+</translation>
+<translation id="career_title">
+    <english>My career</english>
+    <french>Mon parcours professionnel</french>
+</translation>
+<!-- Step 1 -->
+<translation id="step_1_date">
+    <english>Mar 12 - Aug 12</english>
+    <french>Mar 12 - Aou 12</french>
+</translation>
+<translation id="step_1_title">
+    <english><![CDATA[Junior consultant - Callataÿ & Wouters (Sopra Banking Software)]]></english>
+    <french><![CDATA[Consultant junior - Callataÿ & Wouters (Sopra Banking Software)]]></french>
+</translation>
+<translation id="step_1_lieu">
+    <english>Brussels (BE)</english>
+    <french>Bruxelles (BE)</french>
+</translation>
+<translation id="step_1_type">
+    <english>Permanent contract</english>
+    <french>CDI</french>
+</translation>
+<translation id="step_1_field">
+    <english>Banking sector</english>
+    <french>Domaine bancaire</french>
+</translation>
+<translation id="step_1_team">
+    <english>10-15 people</english>
+    <french>10-15 personnes</french>
+</translation>
+<translation id="step_1_accroche">
+    <english><![CDATA[As a developer, I took part in the IT system migration from 
+	<a href="https://www.centea.be" target="_blank">Centea</a> to the IT system of 
+	<a href="http://www.landbouwkrediet.be/" target="_blank">Crédit Agricole</a>.
+	]]></english>
+    <french><![CDATA[Participation, en tant que développeur, à la migration du système informatique de 
+    <a href="https://www.centea.be" target="_blank">Centea</a> vers celui du 
+    <a href="http://www.landbouwkrediet.be/" target="_blank">Crédit Agricole</a>.
+	]]></french>
+</translation>
+<translation id="step_1_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_1_context">
+    <english>Not yet translated</english>
+    <french>Le rachat de Centea par le Crédit Agricole nécessitait l’intégration du système d’information de Centea dans Thaler 
+	(progiciel bancaire). Cette intégration passait par la migration des données, ainsi que l’installation et la configuration 
+	de nouveaux modules.</french>
+</translation>
+<translation id="step_1_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_1_skills_1">
+    <english>Not yet translated</english>
+    <french>Développer et modifier des scripts Unix et SQL, ainsi que le code source de Thaler (Cobol)</french>
+</translation>
+<translation id="step_1_skills_2">
+    <english>Install patches and configure a software package</english>
+    <french>Installer des patchs et configurer un progiciel</french>
+</translation>
+<translation id="step_1_skills_3">
+    <english>Not yet translated</english>
+    <french>Apprendre le fonctionnement du système bancaire belge et européen</french>
+</translation>
+<translation id="step_1_skills_4">
+    <english>Not yet translated</english>
+    <french>Tester unitairement les développements et rédiger des rapports de tests</french>
+</translation>
+<translation id="step_1_skills_5">
+    <english>Not yet translated</english>
+    <french>Travailler en méthode agile</french>
+</translation>
+<translation id="step_1_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_1_result">
+    <english>Not yet translated</english>
+    <french>Le projet s’étalait sur environ 2 ans ;  je n’y ai participé que durant 5 mois, il m’est donc difficile d’avoir un aperçu global des résultats. 
+	En revanche, concernant les tâches qui m’ont été affectées, je peux affirmer que le travail a été réalisé correctement.</french>
+</translation>
+<translation id="step_1_keyword">
+    <english>Oracle, Cobol, AIX, SEPA direct debit, IT migration</english>
+    <french>Oracle, Cobol, AIX, Domiciliation SEPA, Migration</french>
+</translation>
+<!-- Step 2 -->
+<translation id="step_2_date">
+    <english>Sep 11 - Mar 12</english>
+    <french>Sep 11 - Mar 12</french>
+</translation>
+<translation id="step_2_title">
+    <english><![CDATA[Analyst - Adneom]]></english>
+    <french><![CDATA[Analyste - Adneom]]></french>
+</translation>
+<translation id="step_2_lieu">
+    <english>Brussels (BE)</english>
+    <french>Bruxelles (BE)</french>
+</translation>
+<translation id="step_2_type">
+    <english>Permanent contract</english>
+    <french>CDI</french>
+</translation>
+<translation id="step_2_field">
+    <english>Banking sector</english>
+    <french>Domaine bancaire</french>
+</translation>
+<translation id="step_2_team">
+    <english>9 people</english>
+    <french>9 personnes</french>
+</translation>
+<translation id="step_2_accroche">
+    <english><![CDATA[Not yet translated
+	]]></english>
+    <french><![CDATA[Test des différentes versions et évolutions du progiciel bancaire Thaler, au sein de l'équipe de test de 
+    <a href="http://www.soprabanking.com/" target="_blank">Callataÿ & Wouters (Sopra Banking Software)</a> en tant que consultant externe.
+	]]></french>
+</translation>
+<translation id="step_2_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_2_context">
+    <english>Not yet translated</english>
+    <french>Une nouvelle version de Thaler est éditée chaque année, ce qui nécessite de réaliser
+			des tests de non régression sur l’ensemble des modules non impactés, et de concevoir de nouveaux plans de tests 
+			pour les modules ayant subi des modifications. Il en est de même pour les services packs installés tous les 
+			3 mois. Par ailleurs il est également nécessaire de tester les nouvelles localisations de Thaler.
+	</french>
+</translation>
+<translation id="step_2_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_2_skills_1">
+    <english>Not yet translated</english>
+    <french>Elaborer et exécuter des plans de tests</french>
+</translation>
+<translation id="step_2_skills_2">
+    <english>Not yet translated</english>
+    <french>Rédiger des rapports de tests</french>
+</translation>
+<translation id="step_2_skills_3">
+    <english>Not yet translated</english>
+    <french><![CDATA[Utiliser et créer des scripts pour <a href="http://seleniumhq.org/projects/ide/" target="blank">Selenium IDE</a> 
+	et <a href="http://seleniumhq.org/projects/remote-control/"  target="blank">Selenium Remote Control</a>.
+	]]></french>
+</translation>
+<translation id="step_2_skills_4">
+    <english>Not yet translated</english>
+    <french>Apprendre le fonctionnement des systèmes bancaires français, allemand, et belge</french>
+</translation>
+<translation id="step_2_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_2_result">
+    <english>Not yet translated</english>
+    <french>La difficulté de ce travail résidait dans ma faculté à faire corriger les problèmes détectés. 
+	En effet la correction sur projet était souvent privilégiée. J’ai obtenu de bons résultats à ce niveau-là, 
+	même si on m’a conseillé d’augmenter ma visibilité auprès des développeurs.
+	</french>
+</translation>
+<translation id="step_2_keyword">
+    <english>AIX, Selenium, Black box testing, Software package, Bank</english>
+    <french>AIX, Selenium, Test boite noire, Progiciel, Banque</french>
+</translation>
+<!-- Step 3 -->
+<translation id="step_3_date">
+    <english>Feb 11 - Aug 11</english>
+    <french>Fev 11 - Aou 11</french>
+</translation>
+<translation id="step_3_title">
+    <english><![CDATA[Software engineer in Java JEE - Open]]></english>
+    <french><![CDATA[Ingénieur étude et développement Java JEE - Open]]></french>
+</translation>
+<translation id="step_3_lieu">
+    <english>Nantes (FR)</english>
+    <french>Nantes (FR)</french>
+</translation>
+<translation id="step_3_type">
+    <english>Internship (6 months)</english>
+    <french>Stage (6 mois)</french>
+</translation>
+<translation id="step_3_field">
+    <english>Management information system</english>
+    <french>Informatique de gestion</french>
+</translation>
+<translation id="step_3_team">
+    <english>5 people</english>
+    <french>5 personnes</french>
+</translation>
+<translation id="step_3_accroche">
+    <english><![CDATA[Not yet translated
+	]]></english>
+    <french><![CDATA[Conception et réalisation d'une application web de gestion de demandes de service pour le centre de services 
+                                    <a href="http://www.open-groupe.com/" target="_blank">Open</a> à la MAIF.
+	]]></french>
+</translation>
+<translation id="step_3_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_3_context">
+    <english>Not yet translated</english>
+    <french>L’objectif de cette application était de remplacer le fichier Excel, utilisé 
+			jusqu’alors pour gérer les demandes de service ainsi que de définir de façon contractuelle le moyen d’évaluer 
+			la qualité du traitement de ces demandes de service.
+	</french>
+</translation>
+<translation id="step_3_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_3_skills_1">
+    <english>Not yet translated</english>
+    <french>Développer dans un environnement Java JEE (Spring, Struts, Hibernate)</french>
+</translation>
+<translation id="step_3_skills_2">
+    <english>Not yet translated</english>
+    <french>Rédiger des documents</french>
+</translation>
+<translation id="step_3_skills_3">
+    <english>Not yet translated</english>
+    <french>Proposer des solutions innovantes</french>
+</translation>
+<translation id="step_3_skills_4">
+    <english>Not yet translated</english>
+    <french>Communiquer pour comprendre des besoins et exposer des solutions</french>
+</translation>
+<translation id="step_3_skills_5">
+    <english>Not yet translated</english>
+    <french>Tester une application</french>
+</translation>
+<translation id="step_3_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_3_result">
+    <english>Not yet translated</english>
+    <french>A la fin de mon stage, les modules que j’ai développés étaient fonctionnels et, pour la majeure partie, testés.
+	</french>
+</translation>
+<translation id="step_3_keyword">
+    <english>JEE, Java, Spring, Struts, Hibernate, PostgreSQL, Tomcat, Hudson, Sonar, SVN, Eclipse</english>
+    <french>JEE, Java, Spring, Struts, Hibernate, PostgreSQL, Tomcat, Hudson, Sonar, SVN, Eclipse</french>
+</translation>
+<!-- Step 4 -->
+<translation id="step_4_date">
+    <english>Sep 10 - Feb 11</english>
+    <french>Sep 10 - Fev 11</french>
+</translation>
+<translation id="step_4_title">
+    <english>Research and development project - LINA</english>
+    <french>Projet de recherche et développement - LINA</french>
+</translation>
+<translation id="step_4_lieu">
+    <english>Nantes (FR)</english>
+    <french>Nantes (FR)</french>
+</translation>
+<translation id="step_4_type">
+    <english>School project</english>
+    <french>Projet scolaire</french>
+</translation>
+<translation id="step_4_field">
+    <english>Image processing</english>
+    <french>Traitement de l'image</french>
+</translation>
+<translation id="step_4_team">
+    <english>2 people</english>
+    <french>2 personnes</french>
+</translation>
+<translation id="step_4_accroche">
+    <english><![CDATA[Not yet translated
+	]]></english>
+    <french><![CDATA[Conception et réalisation d'un "eye-tracker" stéréoscopique infrarouge pour M. Picarougne et M. Greffard du laboratoire 
+        <a href="https://www.lina.univ-nantes.fr/" target="_blank">LINA à Nantes</a>.
+	]]></french>
+</translation>
+<translation id="step_4_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_4_context">
+    <english>Not yet translated</english>
+    <french><![CDATA[L’objectif de ce projet de recherche était de réaliser une librairie, permettant à partir de 2 caméras 
+	<a href="http://www.naturalpoint.com/optitrack/products/v100-r2/specs.html" target="blank">Optitrack Flex V100R2</a> de connaître la position d’une personne 
+	devant un écran ainsi que l’orientation de son regard. Cette librairie pourra être ensuite utilisée dans des applications plus complexes 
+	(contrôle d’un ordinateur avec les yeux par exemple).
+	]]></french>
+</translation>
+<translation id="step_4_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_4_skills_1">
+    <english>Not yet translated</english>
+    <french>Faire un état de l’art sur un sujet innovant</french>
+</translation>
+<translation id="step_4_skills_2">
+    <english>Not yet translated</english>
+    <french>Synthétiser des documents scientifiques</french>
+</translation>
+<translation id="step_4_skills_3">
+    <english>Not yet translated</english>
+    <french>Programmer des algorithmes complexes en C++</french>
+</translation>
+<translation id="step_4_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_4_result">
+    <english>Not yet translated</english>
+    <french>La librairie rendue était en partie fonctionnelle, en effet la détection des points remarquables sur le visage fonctionnait 
+			correctement, en revanche nous n’avons pas réussi à faire la transformation entre la position d’un point sur les images et 
+			la position de ce même point dans un repère en 3D.
+	</french>
+</translation>
+<translation id="step_4_keyword">
+    <english>C++, OpenCV, Git, Image analysis, Haar-like features, MS Visual Studio</english>
+    <french>C++, OpenCV, Git, Analyse d'image, Cascade de Haar, MS Visual Studio</french>
+</translation>
+<!-- Step 5 -->
+<translation id="step_5_date">
+    <english>May 10 - Jul 10</english>
+    <french>Mai 10 - Juil 10</french>
+</translation>
+<translation id="step_5_title">
+    <english>PHP developer - University of Rijeka</english>
+    <french>Développeur PHP - Université de Rijeka</french>
+</translation>
+<translation id="step_5_lieu">
+    <english>Rijeka (HR)</english>
+    <french>Rijeka (HR)</french>
+</translation>
+<translation id="step_5_type">
+    <english>Internship (3 months)</english>
+    <french>Stage (3 mois)</french>
+</translation>
+<translation id="step_5_field">
+    <english>Management information system</english>
+    <french>Informatique de gestion</french>
+</translation>
+<translation id="step_5_team">
+    <english>Alone</english>
+    <french>Seul</french>
+</translation>
+<translation id="step_5_accroche">
+    <english><![CDATA[Not yet translated
+	]]></english>
+    <french><![CDATA[Conception, réalisation et mise en production <a href="https://sites.google.com/site/mjoler/students/projects/ocbs" target="blank">
+			d'un système de gestion de salle de classe</a> pour <a href="https://sites.google.com/site/mjoler/" target="blank">M. Joler</a> de 
+			<a href="http://www.uniri.hr/index.php?lang=en" target="blank">l'Université de Rijeka</a>.
+	]]></french>
+</translation>
+<translation id="step_5_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_5_context">
+    <english>Not yet translated</english>
+    <french>L’université de Rijeka utilisait un livre de réservation pour l’utilisation ponctuelle d’une salle 
+			(hors emploi du temps fixe sur l’année). L’objectif de cette application était de remplacer ce livre et de faciliter 
+			la recherche d’une salle libre en fonction de certains critères, mais également de pouvoir réserver une salle à n’importe 
+			quel moment et sans avoir à se déplacer.
+	</french>
+</translation>
+<translation id="step_5_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_5_skills_1">
+    <english>Not yet translated</english>
+    <french>Communiquer et rédiger des documents en anglais</french>
+</translation>
+<translation id="step_5_skills_2">
+    <english>Not yet translated</english>
+    <french>Choisir des technologies en fonction d’un besoin et justifier ces choix</french>
+</translation>
+<translation id="step_5_skills_3">
+    <english>Not yet translated</english>
+    <french>Développer en PHP</french>
+</translation>
+<translation id="step_5_skills_4">
+    <english>Not yet translated</english>
+    <french><![CDATA[Utiliser la librairie <a href="http://framework.zend.com/manual/1.12/fr/zend.gdata.html" target="blank">Zend GData</a> (communication avec Google Agenda)
+	]]></french>
+</translation>
+<translation id="step_5_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_5_result">
+    <english>Not yet translated</english>
+    <french>L’application a été rendue fonctionnelle. Elle n’a pas été utilisée du fait d’une absence de consultation des 
+			utilisateurs finaux qui auraient voulu une application intégrée dans l’intranet de l’université afin de ne 
+			pas avoir une URL, un identifiant, et un mot de passe de plus à retenir.
+	</french>
+</translation>
+<translation id="step_5_keyword">
+    <english>PHP, Zend GData, Mysql, Apache, Eclipse </english>
+    <french>PHP, Zend GData, Mysql, Apache, Eclipse </french>
+</translation>	
+<!-- Step 6 -->
+<translation id="step_6_date">
+    <english>Sep 09 - May 10</english>
+    <french>Sep 09 - Mai 10</french>
+</translation>
+<translation id="step_6_title">
+    <english><![CDATA[School project in relation with a company - Orange]]></english>
+    <french><![CDATA[Projet école/entreprise - Orange]]></french>
+</translation>
+<translation id="step_6_lieu">
+    <english>Nantes (FR)</english>
+    <french>Nantes (FR)</french>
+</translation>
+<translation id="step_6_type">
+    <english>School project</english>
+    <french>Projet scolaire</french>
+</translation>
+<translation id="step_6_field">
+    <english>IPTV network</english>
+    <french>Réseaux IPTV</french>
+</translation>
+<translation id="step_6_team">
+    <english>2 people</english>
+    <french>2 personnes</french>
+</translation>
+<translation id="step_6_accroche">
+    <english><![CDATA[Not yet translated
+	]]></english>
+    <french><![CDATA[Conception et réalisation d'un logiciel d'aide à la configuration de tête de réseau IPTV, pour M.Urvoy ingénieur 
+        <a href="http://www.itlabs.fr.orange-business.com/" target="_blank">chez Orange IT&amp;L@bs</a>.
+	]]></french>
+</translation>
+<translation id="step_6_title_context">
+    <english>Context</english>
+    <french>Contexte</french>
+</translation>
+<translation id="step_6_context">
+    <english>Not yet translated</english>
+    <french>Orange IT&amp;L@bs conçoit et installe des réseaux IPTV, la configuration de la tête de réseau peut être compliquée et 
+			longue à effectuer.  En effet une même chaine étant souvent émise par plusieurs satellites le nombre de possibilités de configuration 
+			pour une liste de chaine donnée peut vite conduire à une explosion combinatoire. Par ailleurs la solution la moins chère n’est 
+			pas nécessairement la meilleure pour le client.
+	</french>
+</translation>
+<translation id="step_6_title_skills">
+    <english>Used skills</english>
+    <french>Compétences utilisés</french>
+</translation>
+<translation id="step_6_skills_1">
+    <english>Not yet translated</english>
+    <french>Concevoir et développer un algorithme</french>
+</translation>
+<translation id="step_6_skills_2">
+    <english>Not yet translated</english>
+    <french>Rédiger un cahier des charges</french>
+</translation>
+<translation id="step_6_skills_3">
+    <english>Not yet translated</english>
+    <french>Développer un logiciel en passant par toutes les phases du cycle en V</french>
+</translation>
+<translation id="step_6_skills_4">
+    <english>Not yet translated</english>
+    <french>Utiliser un outil de gestion de version</french>
+</translation>
+<translation id="step_6_title_result">
+    <english>Results</english>
+    <french>Résultats</french>
+</translation>
+<translation id="step_6_result">
+    <english>Not yet translated</english>
+    <french>Le logiciel rendu correspondait aux attentes de M. Urvoy qui a indiqué que 
+            lors de ses tests le logiciel lui a permis de découvrir des solutions meilleures que celles qu’il avait lui-même conçues.
+	</french>
+</translation>
+<translation id="step_6_keyword">
+    <english>C++, Qt, Sqlite, SVN, IPTV, Multimedia</english>
+    <french>C++, Qt, Sqlite, SVN, IPTV, Multimédia</french>
+</translation>	
+
+<!-- Contact -->
+<translation id="contact_title">
+    <english>Stay in touch</english>
+    <french>Comment me contacter</french>
+</translation>
+<translation id="contact_mobile">
+    <english>+336 95 64 44 09</english>
+    <french>+33 (0)6 95 64 44 09</french>
+</translation>
+<translation id="contact_address">
+    <english>25 rue des Petites Pannes</english>
+    <french>25 rue des Petites Pannes</french>
+</translation>
+<translation id="contact_ville">
+    <english>49100 Angers, France</english>
+    <french>49100 Angers, France</french>
+</translation>
+</translations>
